@@ -1,4 +1,3 @@
-<!-- _posts/2025-12-19-AI-Anuimation-Experiment.md -->
 ---
 title: "AI Animation Experiment: Boston Terrier Hula"
 date: 2025-12-19
