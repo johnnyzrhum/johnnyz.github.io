@@ -11,7 +11,7 @@ tags:
 
 Uploaded image from Google to provide all-angles view of a Tron Light Cycle into Gemini.
 
-<video controls playsinline loop width="50%">
+<video controls playsinline loop width="80%">
   preload="metadata"  <source src="/assets/images/tron_bike.mp4" type="video/mp4">
 </video>
 
