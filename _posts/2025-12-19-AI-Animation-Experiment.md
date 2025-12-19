@@ -8,5 +8,5 @@ layout: single
 ---
 
 <video controls playsinline width="100%">
-  <source src="/media/Boston_Terrier_Hula_Dance_Animation.mp4" type="video/mp4">
+  <source src="/assets/images/Boston_Terrier_Hula_Dance_Animation.mp4" type="video/mp4">
 </video>
