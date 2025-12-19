@@ -9,6 +9,10 @@ tags:
 
 Utilized ChatGPT to generate initial image from real life picture of our family pets. Then constructed this prompt in Gemini to generate video:
 
+<video controls playsinline autoplay loop width="50%">
+  preload="metadata"  <source src="/assets/images/Boston_Terrier_Hula_Dance_Animation.mp4" type="video/mp4">
+</video>
+
 ```
 Animate the uploaded image into a short video.
 
@@ -27,6 +31,3 @@ Smooth motion, happy and festive mood.
 High quality, clean animation.
 ```
 
-<video controls playsinline width="50%">
-  <source src="/assets/images/Boston_Terrier_Hula_Dance_Animation.mp4" type="video/mp4">
-</video>
